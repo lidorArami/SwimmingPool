@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textAllCaps="true"
+        android:textAlignment="center"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="User Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvName"
+        android:textSize="36sp"
+        android:textAlignment="viewEnd" />
+
+    <TextView
+        android:text="ID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvID"
+        android:textSize="36sp"
+        android:textAlignment="viewEnd" />
+
+    <TextView
+        android:text="Age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ssssss"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvAge"
+        android:textSize="36sp"
+        android:textAlignment="viewEnd" />
+
+    <TextView
+        android:text="Account Number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView15"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvAccNum"
+        android:textSize="36sp"
+        android:textAlignment="viewEnd" />
+
+    <TextView
+        android:text="Number of Entries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ssssssss"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvNumEnt"
+        android:textSize="36sp"
+        android:textAlignment="viewEnd" />
+
+</LinearLayout>

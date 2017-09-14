@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="lidor.swimming_pool.AddPostActivity">
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="נושא" />
+
+    <EditText
+        android:id="@+id/etBody"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="top"
+        android:hint="תוכן" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="100dp"
+        android:background="#c1112e"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="שלח" />
+
+</LinearLayout>
+
+
+
+

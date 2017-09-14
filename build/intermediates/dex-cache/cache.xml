@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_ebd77ae9d2204398360b8c9fb77a86258a030c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_8f9d38a7c186467b9467bd7efc0f5c6f9df61af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_5e14a4d30c9095ed2e0c3c5392aaedbf8741334b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_764b62b2252ed6eff78f14668bbc61188397d76e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_a29d988bd97e3bfadc3e494a25530a6555578ee1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_78574ff92232105c189ba41390d20759c29baa40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_4321e59c80ef42664f2a2ff628ec6d4bd4bc1af2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_8872e923abbfb08bc6a0c65989ddbd9640457919\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_b869ba47e1814238f61ae89467ba880c0098113b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_e9a43c6c1fa1f2e00a0d99711a3235b58f7fea93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_4e688fc696015d21b72d7ee2f86dc8850c147758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_6531073dea29e47ccd9e3b048981727c62819839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7140d01b6ad44292ad57b83c9f8e623733ba5c1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_351fab63c2facf1e5dad7b951041c49e1de2b560\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_49727dea2f54fa1e62245ac37b01afb17a30406c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_0f81fd228812f23976890a15dbedf21b9423cb5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5b36c4e3afbcddf0af0c08c67a5c3e34a18a7b28">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_84f80c9c4a3b07a4b3351b0c09f12cf827f7443a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_e5f0e56a7f63ba70f07f9ea913b58ff8ad149331\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_8289a7d40b4137261e8f7a3707a9106998045aa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_47820d5fe7b236996080578af3909110b142cd92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_7add06468301cb3914cbfc7afc21b0569703d391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_f78eb7ebe169f52405d0a0a515271ff33bc1c27e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_caf773838f3dc392c646d9089419e7f0f4b99bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_166ac1cf92b3aff3cb6f6df2b3cd64075a0566d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_4bd3156e46f485cd056e2136f41c3393f554e979\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_9108877b720fbcaa08424bde357deb76a8ae5c76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_c3b8fac453824d5ad6108ffe8d7c18c99d5a5a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_05f219cd2b1c3f7db94f8d3f6f35737b3dfcf0bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_961780e9eefeeb4e928ea2ea23ec0a499f637000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_2c617717b895dbc9c2145cb8c9e19368e1d20149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_334d4a4b8f81c32ee06eaa9835b509e9030dc63e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_f8406505ca659e118f8d2452cb70c6e37f86f1f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_36f4104d86e243a4dfb6c9a89798a1611c416ef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_59899470604fdd7aa256b98dda89318c7ee074c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_dc5f827f6a94d7960f389d0c822b3caf07b8784d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_ef57d357ad504cb1d5adb01563f963eb93b31642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_b58179745f448d1cf76c428018be769b30961a6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_0513892c4e3a6728d96f682d15cab244bfec3372\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_57c52fd8370c39fe570a7c6254403b05f3ade652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_2e0e4ebd930272828fc5f7910ed92ff9e2e1c92c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_5504459d3225081eba46cf7af4030b6f2659a00b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_b87bc1c790754f79bdb53595e725b60e794b6075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_8acf403ab743a4de457e9fdab37b9f7c13b297e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_fc04e242765f057c8b7ed68a8b347b4159ef6303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_02e014d635a2e62568c14266ec62d117d9f03fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b2769711382aa598b0df9d8cba556dde902295f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_dc224cf218abec6f87bcff34e31f7a8d79de5c22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_f41216d5bdadb06b93566efd1b79b48179a1e14c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_c5901fd4df7d88224df5b74f7dc4416f30a2475b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_f80b77b974e8e011df8e6717f6baaaa4ea9429a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_71d59fe64a1ff532fe837077c96d0e6e35698ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_1e31cb2cb8124e9532d42f511a55b57b317eb7f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_549b0035e3375e1528850c881e43e742afc63dac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3f84dcbbcf8b856950367956179d1dc8799e6ac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_b6d209221fb3b864b3e83b1dcbce7eccdc665a09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_9914974078eefaccc05d9a70520a2602845784cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_af331a36fe22cf4c8272edffcd3c0a3a73866c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_d95af53ef1437e27a198e046c57fd5b5591aba82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b34d2a7a3e585da30acfcb8369141fb5d000309c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65c35e52591e0dcfd27f8c42591b3ba5b7a8b59e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_aff746109ab6a3eb230051487121f6b81e3d1d6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_9bb39942b82ccd8350d49eb9b6f0da4928024029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_14e2ee839b2bec97ee7607a68949aa7d09693d8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Nir\AndroidStudioProjects\Swimming_Pool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_cd8cb28570e83adc9c0feb3ed9728694ae0158c8\classes.dex" />
+    </item>
+
+</items>
